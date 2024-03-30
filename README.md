@@ -1,2 +1,2 @@
 # Temperature-sendor
-We will use tinckercad ,thinkseak and app
+We will use tinckercad ,thinkspeak and app to diplay temperature using arduino
